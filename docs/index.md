@@ -51,31 +51,37 @@ What is misinformation? Concepts and categories of misinformation. The art, scie
 * [G. A. Cohen (2002)](http://learning.hccs.edu/faculty/robert.tierney/phil1301-6/bullshit/g.a.-cohen-deeper-into-bullshit/at_download/file) Deeper into Bullshit. Buss and Overton, eds., Contours of Agency: Themes from the Philosophy of Harry Frankfurt Cambridge, Massachusetts: MIT Press.
 * [Philip Eubanks and John D. Schaeffer (2008)](http://writing2.richmond.edu/training/383/383restricted/bullshit.pdf) A kind word for bullshit: The problem of academic writing. College Composition and Communication 59(3): 372-388
 * [J. L. Austin](http://www.uvm.edu/~lderosse/courses/lang/Austin(1979).pdf) Performative Utterance, in Austin, Urmson, and Warnock (1979) Philosophical Papers. Clarendon.
+
 ***
 
 ### [](#header-3)Week 2. Spotting misinformation. 
-Truth, like liberty, requires eternal vigilance. How do you spot misinformation in the wild? Effect sizes, dimensions, Fermi estimation, and checks on plausibility. Claims and the interests of those who make them.
+Truth, like liberty, requires eternal vigilance. How do you spot misinformation in the wild? Effect sizes, dimensions, [Fermi estimation](http://www.fermiquestions.com/play), and checks on plausibility. Claims and the interests of those who make them. Forensic data analysis: [GRIM](https://medium.com/@jamesheathers/the-grim-test-a-method-for-evaluating-published-research-9a4e5f05e870) test, [Newcomb](https://www.jstor.org/stable/pdf/2369148.pdf)-[Benford](https://www.jstor.org/stable/984802?seq=1#page_scan_tab_contents) law.
 
-* Forensic data analysis: GRIM test, Newcomb-Benford law.
-* Carl Sagan 1996 The Fine Art of Baloney Detection. Chapter 12 in Sagan (1996) The Demon-Haunted World
+* [Carl Sagan 1996](http://www.inf.fu-berlin.de/lehre/pmo/eng/Sagan-Baloney.pdf) The Fine Art of Baloney Detection. Chapter 12 in Sagan (1996) The Demon-Haunted World
 
-* Case studies: Food stamp fraud, 99% caffeine-free
+* **Case studies**: [Food stamp fraud](http://callingbullshit.org/case_studies/case_study_foodstamp_fraud.html), [99% caffeine-free](http://callingbullshit.org/case_studies/case_study_caffeine_free.html)
+
 ***
 
 ### [](#header-3)Week 3. The natural ecology of misinformation. 
 Where do we find misinformation? Why news media provide misinformation. TED talks and the marketplace for upscale misinformation. Why social media provide ideal conditions for the growth and spread of misinformation.
 
-Gordon Pennycook et al. (2015) On the reception and detection of pseudo-profound bullshit. Judgement and Decision Making 10:549-563
-Adrien Friggeri et al. (2014). Rumor Cascades. Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media
+* Gordon Pennycook et al. (2015) On the reception and detection of pseudo-profound bullshit. Judgement and Decision Making 10:549-563
+* Adrien Friggeri et al. (2014). Rumor Cascades. Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media
+
+***
 
 ### [](#header-3)Week 4. Causality 
 One common source of misinformation data analysis arises when people ignore, deliberately or otherwise, the fact that correlation is not causation. The consequences can be hilarious, but this confusion can also be used to mislead. Confusing causality with necessity or sufficiency. Regression to the mean pitched as treatment effect. Milton Friedman's thermostat. Selection masked as transformation.
 
-Robert Matthews (2000) Storks deliver babies (p=0.008). Teaching Statistics22:36-38
-Case study: Traffic improvements
+* Robert Matthews (2000) Storks deliver babies (p=0.008). Teaching Statistics22:36-38
+
+* Case study: Traffic improvements
 
 **Supplementary reading**
-Karl Pearson (1897) On a Form of Spurious Correlation which may arise when Indices are used in the Measurement of Organs. Proceedings of the Royal Society of London 60: 489–498. For context see also Aldrich (1995).
+* Karl Pearson (1897) On a Form of Spurious Correlation which may arise when Indices are used in the Measurement of Organs. Proceedings of the Royal Society of London 60: 489–498. For context see also Aldrich (1995).
+
+***
 
 ### [](#header-3)Week 5. Statistical traps and trickery. 
 Bayes rule and conditional probabilities. Base-rate fallacy / prosecutor's fallacy. Simpson's paradox. Data censoring. Will Rogers effect, lead-time bias, and length time bias. Means versus medians. Importance of higher moments.
@@ -84,12 +90,16 @@ Simpson’s paradox: an interactive data visualization from VUDlab at UC Berkele
 Alvan Feinstein et al. (1985) The Will Rogers Phenomenon — Stage Migration and New Diagnostic Techniques as a Source of Misleading Statistics for Survival in Cancer. New England Journal of Medicine 312:1604-1608.
 Case studies: Musicians and mortality, Track records
 
+***
+
 ### [](#header-3)Week 6. Data visualization. 
 Data graphics can be powerful tools for understanding information, but they can also be powerful tools for misleading audiences. We explore the many ways that data graphics can steer viewers toward misleading conclusions.
 
 Edward Tufte (1983) The Visual Display of Quantitative Information Chapters 2 (Graphical integrity) and 5 (Chartjunk: vibrations, grids, and ducks).
 Tools and tricks: Misleading axes
 Tools and tricks: Proportional Ink
+
+***
 
 ### [](#header-3)Week 7. Big data. 
 When does any old algorithm work given enough data, and when is it garbage in, garbage out? Use and abuse of machine learning. Misleading metrics. Goodhart's law.
@@ -103,6 +113,8 @@ Jevin West (2014) How to improve the use of metrics: learn from game theory. Nat
 Cathy O'Neil (2016) Weapons of Math Destruction Crown Press.
 Peter Lawrence (2014) The mismeasurement of science. Current Biology17:R583-585
 
+***
+
 ### [](#header-3)Week 8. Publication bias. 
 Even a community of competent scientists all acting in good faith can generate a misleading scholarly record when — as is the case in the current publishing environment — journals prefer to publish positive results over negative ones. In a provocative and hugely influential 2005 paper, epidemiologist John Ioannides went so far as to argue that this publication bias has created a situation in which most published scientific results are probably false. As a result, it’s not clear that one can safely rely on the results of some random study reported in the scientific literature, let alone on Buzzfeed. Once corporate funders with private agendas become involved, matters become all the more complicated.
 
@@ -113,6 +125,8 @@ David Michaels and Celeste Monforton (2005) Manufacturing Uncertainty: Contested
 Erick Turner et al. (2008) Selective Publication of Antidepressant Trials and Its Influence on Apparent Efficacy New England Journal of Medicine358:252-260
 Silas Nissen et al. (2016) Publication bias and the canonization of false facts. eLife 5:e21451
 
+***
+
 ### [](#header-3)Week 9. Predatory publishing and scientific misconduct. 
 Predatory publishing. The list formerly known as Beall's. Publishing economics. Pathologies of publish-or-perish culture. Pursuit of PR instead of progress. Data dredging, p-hacking, and similar malfeasance.
 
@@ -122,32 +136,39 @@ Tools and tricks: How can you know if a paper is legit?
 Supplementary Reading
 J. P. Simmons et al. (2011) False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. Psychological Science 22:1359–1366
 
+***
+
 ### [](#header-3)Week 10. The ethics of calling bullshit. 
 Where is the line between deserved criticism and targeted harassment? Is it, as one prominent scholar argued, “methodological terrorism” to call bullshit on a colleague's analysis? What if you use social media instead of a peer-reviewed journal to do so? How about calling bullshit on a whole field that you know almost nothing about? Pubpeer. Principles for the ethical calling of bullshit. The Dunning-Kruger effect. Differences between being a hard-minded skeptic and being a domineering jerk.
 
-Alan Sokal (1996) A physicist experiments with cultural studies. Lingua Franca 6:62-64.
-Jennifer Ruark (2017) Anatomy of a hoax. Chronicle of Higher Education
-Robert Service (2014) Nano-Imaging Feud Sets Online Sites Sizzling. Science343:358.
-Susan Fiske (2016) Mob Rule or Wisdom of Crowds? APS Observerpreliminary draft. Also read commentaries [1] and [2].
-Michael Blatt (2016) Vigilante Science. Plant Physiology 169:907-909.
+* Alan Sokal (1996) A physicist experiments with cultural studies. Lingua Franca 6:62-64.
+* Jennifer Ruark (2017) Anatomy of a hoax. Chronicle of Higher Education
+* Robert Service (2014) Nano-Imaging Feud Sets Online Sites Sizzling. Science343:358.
+* Susan Fiske (2016) Mob Rule or Wisdom of Crowds? APS Observerpreliminary draft. Also read commentaries [1] and [2].
+* Michael Blatt (2016) Vigilante Science. Plant Physiology 169:907-909.
+
+***
 
 ### [](#header-3)Week 11. Fake news. 
 Fifteen years ago, nascent social media platforms offered the promise of a more democratic press through decentralized broadcasting and a decoupling of publishing from advertising revenue. Instead, we get sectarian echo chambers and, lately, a serious assault on the very notion of fact. Not only did fake news play a substantive role in the November 2016 US elections, but recently a fake news story actually provoked nuclear threats issued by twitter.
 
-Before 'Fake News' Came False Prophecy The Atlantic Monthly Dec. 27, 2016
-Factcheck.org: How to spot fake news
-Adrian Chen (2016) The Agency. New York Times Magazine
-Inside a fake news sausage-factory: 'It's all about income'
-New York Times Nov. 25, 2016Donath, Judith (2016) Why fake news stories thrive online. CNN Opinion.
-Brian Feldman (2017) Google's dangerous identity crisis. New York Magazine
+* Before 'Fake News' Came False Prophecy The Atlantic Monthly Dec. 27, 2016
+* Factcheck.org: How to spot fake news
+* Adrian Chen (2016) The Agency. New York Times Magazine
+* Inside a fake news sausage-factory: 'It's all about income'
+New York Times Nov. 25, 2016
+* Donath, Judith (2016) Why fake news stories thrive online. CNN Opinion.
+* Brian Feldman (2017) Google's dangerous identity crisis. New York Magazine
+
+***
 
 ### [](#header-3)Week 12. Refuting misinformation. 
 Refuting misinformation requires different approaches for different audiences. What works for a quantitatively-skilled professional scientist won't always convince your casually racist uncle on facebook, and vice versa.
 
-John Cook and Stephan Lewandowsky (2012) The Debunking Handbook.
-Craig Bennett et al. (2009) Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: An argument for multiple comparisons correction
+* John Cook and Stephan Lewandowsky (2012) The Debunking Handbook.
+* Craig Bennett et al. (2009) Neural correlates of interspecies perspective taking in the post-mortem Atlantic Salmon: An argument for multiple comparisons correction
 
-Case study: Gender gap in 100 m times
+* Case study: Gender gap in 100 m times
 
 
 
