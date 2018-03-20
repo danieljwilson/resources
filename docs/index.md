@@ -6,17 +6,22 @@ Based on the syllabus of [Carl T. Bergstrom](http://octavia.zoology.washington.e
 
 **Synopsis**: Our world is saturated with convincingly presented misinformation. Learn to detect and defuse it.
 
-Learning Objectives
+## [](#header-2)Learning Objectives
+
 The learning objectives are straightforward. After taking the course, students should be able to:
 Remain vigilant for misinformation contaminating their information diet.
-Recognize said misinformation whenever and wherever they encounter it.
-Figure out for themselves precisely why a particular bit of misinformation is misinformed.
-Provide a statistician or fellow scientist with a technical explanation of why a claim is misinformed.
+
+* Recognize said misinformation whenever and wherever they encounter it.
+* Figure out for themselves precisely why a particular bit of misinformation is misinformed.
+* Provide a statistician or fellow scientist with a technical explanation of why a claim is misinformed.
+
 The hope is that these skills will turn out to be among the most useful and most broadly applicable of those that students acquire during the course of their college education.
 
-Schedule and readings
+## [](#header-2)Schedule and readings
+
 Each of the lectures will explore one specific facet of misinformation. For each week, a set of required readings are assigned. For some weeks, supplementary readings are also provided for those who wish to delve deeper.
-Lectures
+
+## [](#header-2)Lectures
 Week 1. Introduction to misinformation.
 Week 2. Spotting misinformation.
 Week 3. The natural ecology of misinformation.
