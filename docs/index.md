@@ -4,7 +4,9 @@
 
 Based on the syllabus of [Carl T. Bergstrom](http://octavia.zoology.washington.edu/) and [Jevin West](http://www.jevinwest.org/).
 
-**Synopsis**: Our world is saturated with convincingly presented misinformation. Learn to detect and defuse it.
+> **Synopsis**: 
+> Our world is saturated with convincingly presented misinformation. 
+> Learn to detect and defuse it.
 
 ## [](#header-2)Learning Objectives
 
@@ -42,7 +44,7 @@ Each of the lectures will explore one specific facet of misinformation. For each
 
 What is misinformation? Concepts and categories of misinformation. The art, science, and moral imperative of recognizing and alerting people to misinformation. [Brandolini’s Bullshit Asymmetry Principle](http://ordrespontane.blogspot.ca/2014/07/brandolinis-law.html).
 
-Harry Frankfurt (1986) On Bullshit. Raritan Quarterly Review 6(2)
+[Harry Frankfurt (1986)](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf) On Bullshit. Raritan Quarterly Review 6(2)
 
 **Supplementary readings**
 G. A. Cohen (2002) Deeper into Bullshit. Buss and Overton, eds., Contours of Agency: Themes from the Philosophy of Harry Frankfurt Cambridge, Massachusetts: MIT Press.
