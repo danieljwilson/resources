@@ -23,18 +23,18 @@ Each of the lectures will explore one specific facet of misinformation. For each
 
 ## [](#header-2)Lectures
 
-1. Week 1. Introduction to misinformation.
-2. Week 2. Spotting misinformation.
-3. Week 3. The natural ecology of misinformation.
-4. Week 4. Causality
-5. Week 5. Statistical traps and trickery.
-6. Week 6. Data visualization.
-7. Week 7. Big data.
-8. Week 8. Publication bias.
-9. Week 9. Predatory publishing and scientific misconduct.
-10. Week 10. The ethics of calling bullshit.
-11. Week 11. Fake news.
-12. Week 12. Refuting misinformation.
+1. Introduction to misinformation.
+2. Spotting misinformation.
+3. The natural ecology of misinformation.
+4. Causality
+5. Statistical traps and trickery.
+6. [Data visualization](index.md#week-6-data-visualization)
+7. Big data.
+8. Publication bias.
+9. Predatory publishing and scientific misconduct.
+10. The ethics of calling bullshit.
+11. Fake news.
+12. Refuting misinformation.
 
 ***
 
