@@ -23,24 +23,24 @@ Each of the lectures will explore one specific facet of misinformation. For each
 
 ## [](#header-2)Lectures
 
-1. Introduction to misinformation.
-2. Spotting misinformation.
-3. The natural ecology of misinformation.
-4. Causality
-5. Statistical traps and trickery.
+1. [Introduction to misinformation](index.md#week-1-introduction-to-misinformation)
+2. [Spotting misinformation](index.md#week-2-spotting-misinformation)
+3. [The natural ecology of misinformation](index.md#week-3-the-natural-ecology-of-misinformation)
+4. [Causality](index.md#week-4-causality)
+5. [Statistical traps and trickery](index.md#week-5-statistical-traps-and-trickery)
 6. [Data visualization](index.md#week-6-data-visualization)
-7. Big data.
-8. Publication bias.
-9. Predatory publishing and scientific misconduct.
-10. The ethics of calling bullshit.
-11. Fake news.
-12. Refuting misinformation.
+7. [Big data](index.md#week-7-big-data)
+8. [Publication bias](index.md#week-8-publication-bias)
+9. [Predatory publishing and scientific misconduct](index.md#week-9-predatory-publishing-and-scientific-misconduct)
+10. [The ethics of calling bullshit](index.md#week-10-the-ethics-of-calling-bullshit)
+11. [Fake news](index.md#week-11-fake-news)
+12. [Refuting misinformation](index.md#week-12-refuting-misinformation)
 
 ***
 
 ### [](#header-3)Week 1. Introduction to misinformation. 
 
-What is misinformation? Concepts and categories of misinformation. The art, science, and moral imperative of recognizing and alerting people to misinformation. Brandolini’s Bullshit Asymmetry Principle.
+What is misinformation? Concepts and categories of misinformation. The art, science, and moral imperative of recognizing and alerting people to misinformation. [Brandolini’s Bullshit Asymmetry Principle](http://ordrespontane.blogspot.ca/2014/07/brandolinis-law.html).
 
 Harry Frankfurt (1986) On Bullshit. Raritan Quarterly Review 6(2)
 
