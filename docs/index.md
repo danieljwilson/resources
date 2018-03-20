@@ -44,9 +44,12 @@ Each of the lectures will explore one specific facet of misinformation. For each
 
 What is misinformation? Concepts and categories of misinformation. The art, science, and moral imperative of recognizing and alerting people to misinformation. [Brandolini’s Bullshit Asymmetry Principle](http://ordrespontane.blogspot.ca/2014/07/brandolinis-law.html).
 
+---
 [Harry Frankfurt (1986)](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf) On Bullshit. Raritan Quarterly Review 6(2)
+---
 
 **Supplementary readings**
+
 G. A. Cohen (2002) Deeper into Bullshit. Buss and Overton, eds., Contours of Agency: Themes from the Philosophy of Harry Frankfurt Cambridge, Massachusetts: MIT Press.
 Philip Eubanks and John D. Schaeffer (2008) A kind word for bullshit: The problem of academic writing. College Composition and Communication 59(3): 372-388
 J. L. Austin Performative Utterance, in Austin, Urmson, and Warnock (1979) Philosophical Papers. Clarendon.
