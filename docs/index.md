@@ -4,7 +4,7 @@ layout: resources...
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](../README.md).
+[Link to another page](data/README.md).
 
 There should be whitespace between paragraphs.
 
